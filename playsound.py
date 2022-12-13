@@ -1,2 +1,2 @@
 from playsound import playsound
-playsound('c:\\Users\\suman\\be.mp3')
+playsound('be.mp3')
